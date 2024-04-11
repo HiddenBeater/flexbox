@@ -55,7 +55,6 @@
     flex-wrap: wrap;
     flex-direction: row;
     align-items: center;
-<<<<<<< HEAD
 }
 
 .first-item{
@@ -64,8 +63,6 @@
 
 .final-item{
     order: -1;
-=======
->>>>>>> 41a2b8bba82e2afe5aee14098ab8097c25ceeb1e
 }
 
 .first-item{
@@ -82,35 +79,21 @@
 }
 
 .social,
-<<<<<<< HEAD
 .subscribe{
     align-self: flex-end;
     margin-bottom: 20px;
 }
 
 .footer{
-=======
-.subscribe {
-    align-self: flex-end    ;
-    margin-bottom: 20px;
-}
-
-.footer {
->>>>>>> 41a2b8bba82e2afe5aee14098ab8097c25ceeb1e
     display: flex;
     justify-content: space-between;
 }
 
-<<<<<<< HEAD
 .footer-item{
-=======
-.footer-item {
->>>>>>> 41a2b8bba82e2afe5aee14098ab8097c25ceeb1e
     border: 1px solid #fff;
     background-color: #d6e9fe;
     height: 200px;
     flex: 1;
-<<<<<<< HEAD
 }
 
 .footer-one,
@@ -118,6 +101,4 @@
     background-color: #5995da;
     flex: initial;
     width: 300px;
-=======
->>>>>>> 41a2b8bba82e2afe5aee14098ab8097c25ceeb1e
 }
